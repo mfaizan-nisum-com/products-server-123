@@ -34,6 +34,6 @@ app.get("/getProducts", (request, response) => {
   }
 });
 
-app.listen(3000, () => {
-  console.log("Listen on the port 3000...");
+app.listen(process.env.PORT || 3000, () => {
+  console.log("Listen on the port ", process.env.PORT || 3000);
 });
