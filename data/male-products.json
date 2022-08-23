@@ -1,0 +1,65 @@
+{
+  "slideshow": [
+    {
+      "url": "dior.webp",
+      "heading": "Sauvage Deodorant Stick",
+      "content": "The Dior Sauvage Deodorant Stick features a subtly scented alcohol-free formula that reveals the fresh and woody notes of Sauvage. Gentle lasting protection that is soft on skin."
+    },
+    {
+      "url": "beard.webp",
+      "heading": "Beard Grooming Kit",
+      "content": "Jack Black's Beard Grooming Kit is a 4-step beard care routine that features everything needed to cleanse, condition, soften, and style."
+    },
+    {
+      "url": "blue.webp",
+      "heading": "BLEU DE CHANEL After Shave Lotion",
+      "content": "BLEU DE CHANEL After Shave Lotion refreshes and softens. Skin feels comfortable and is lightly scented with the profoundly sensual fragrance."
+    }
+  ],
+  "carousel": [
+    {
+      "url": "https://media.ulta.com/i/ulta/2562499?w=720",
+      "heading": "Living Proof",
+      "content": "Perfect hair day dry shampoo",
+      "price": "$41.00"
+    },
+    {
+      "url": "https://media.ulta.com/i/ulta/2560428?w=720",
+      "heading": "Volt",
+      "content": "Instant beard color",
+      "price": "$28.00"
+    },
+    {
+      "url": "https://media.ulta.com/i/ulta/2124111?w=720",
+      "heading": "Gillette",
+      "content": "Fusion Power Cartridges",
+      "price": "$24.99"
+    }
+  ],
+  "personalized": [
+    {
+      "url": "https://media.ulta.com/i/ulta/2546413?w=720",
+      "heading": "IGK",
+      "content": "First Class Charcoal Detox Dry Shampoo",
+      "price": "$32.00"
+    },
+    {
+      "url": "https://media.ulta.com/i/ulta/2293702?w=720",
+      "heading": "Jack Black",
+      "content": "Beard Oil",
+      "price": "$26.00"
+    },
+    {
+      "url": "https://media.ulta.com/i/ulta/2516317?w=720",
+      "heading": "Remington",
+      "content": "The Virtually Indestructible Haircut & Beard Trimmer",
+      "price": "$42.00"
+    },
+    {
+      "url": "The Virtually Indestructible Haircut & Beard Trimmer",
+      "heading": "Clinique",
+      "content": "Clinique For Men Cream Shave",
+      "price": "$23.00"
+    }
+  ]
+}

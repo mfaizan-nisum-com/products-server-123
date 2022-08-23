@@ -1,0 +1,65 @@
+{
+  "slideshow": [
+    {
+      "url": "insta.webp",
+      "heading": "Insta Dri Nail Color",
+      "content": "Sally Hansen Insta-Dri is the #1 US quick-dry nail polish. Dries in 60 seconds."
+    },
+    {
+      "url": "lauder.webp",
+      "heading": "Double Wear Stay-in-Place Foundation",
+      "content": "Wear confidence. Estée Lauder Double Wear Stay-in-Place Makeup is a 24-hour liquid foundation with a flawless, natural, matte finish that helps to unify uneven skin tone and control oil and shine. Buildable medium-to-full coverage in over 55 shades."
+    },
+    {
+      "url": "mac.webp",
+      "heading": "Macstack Mascara Superstack",
+      "content": "The MAC Macstack Mascara Superstack Micro Brush continuously buildable mascara that stacks on infinite layers of volume and length, with a smaller brush that delivers ultra-precise application and is ideal for shorter or lower lashes."
+    }
+  ],
+  "carousel": [
+    {
+      "url": "https://media.ulta.com/i/ulta/2598359?w=400&$ProductCardNeutralBGLight$&fmt=webp",
+      "heading": "Jaclyn Cosmetics",
+      "content": "Strawberry Feels Poutspoken Liquid Lipstick",
+      "price": "$20.00"
+    },
+    {
+      "url": "https://media.ulta.com/i/ulta/2598933?w=400&$ProductCardNeutralBGLight$&fmt=webp",
+      "heading": "Beauty Bio",
+      "content": "GLOfacial Hydro-Infusion Deep Pore Cleansing Tool",
+      "price": "$199.00"
+    },
+    {
+      "url": "https://media.ulta.com/i/ulta/2591014?w=720",
+      "heading": "Olaplex",
+      "content": "No.3 Hair Perfector",
+      "price": "$30.00"
+    }
+  ],
+  "personalized": [
+    {
+      "url": "https://media.ulta.com/i/ulta/2600482?w=400&$ProductCardNeutralBGLight$&fmt=webp",
+      "heading": "Urban decay",
+      "content": "Naked Wild West Mini Vegan Eyeshadow Palette",
+      "price": "$27.00"
+    },
+    {
+      "url": "https://media.ulta.com/i/ulta/2598994?w=720",
+      "heading": "Kinship",
+      "content": "Self smooth resurfacing serum",
+      "price": "$28.00"
+    },
+    {
+      "url": "https://media.ulta.com/i/ulta/2598873?w=720",
+      "heading": "Multi active night cream",
+      "content": "Multi-Active Night Cream, Normal to Dry Skin",
+      "price": "$59.00"
+    },
+    {
+      "url": "https://media.ulta.com/i/ulta/2599028?w=400&$ProductCardNeutralBGLight$&fmt=webp",
+      "heading": "Bumble and Bumble",
+      "content": "Style without limits set",
+      "price": "$35.00"
+    }
+  ]
+}
