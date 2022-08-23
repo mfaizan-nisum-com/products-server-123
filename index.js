@@ -22,7 +22,7 @@ app.get("/getProducts/:gender", (request, response) => {
   }
 });
 
-app.get("/getProducts", (request, response) => {
+app.post("/getProducts", (request, response) => {
   const user = request.body?.user;
   const gender = user?.gender;
   if (gender === GENDER.MALE) {
