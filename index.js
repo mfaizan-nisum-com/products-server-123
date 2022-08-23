@@ -1,10 +1,17 @@
 const express = require("express");
+const cors = require("cors");
 const { GENDER } = require("./constants");
 const maleProducts = require("./data/male-products.json");
 const femaleProducts = require("./data/female-products.json");
 const app = express();
 
 app.use(express.json());
+
+app.use(
+  cors({
+    origin: "*",
+  })
+);
 
 app.get("/", (request, response) => {
   response.send("<h1>Products NodeJS Server </h1>");
